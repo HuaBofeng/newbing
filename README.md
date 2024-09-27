@@ -19,7 +19,6 @@
 - [Go-Proxy-BingAI](#Go-Proxy-BingAI)
   
   - [教程](#-教程十分重要)
-  - [一键部署](#-一键部署)
   - [特色简介](#-特色简介)
   - [效果展示](#-效果展示)
   - [用户交流](#%EF%B8%8F-用户交流)
@@ -30,41 +29,6 @@
 > [!WARNING]
 > 查看 [**>>>快速教程<<<**](https://github.com/Harry-zklcdc/go-proxy-bingai/wiki)
 
-## 🚀 一键部署
-
-### BingAI + 人机验证服务器
-
-> #### CodeSandbox 部署
->
-> [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/Harry-zklcdc/go-proxy-bingai/tree/master?import=true)
-
-### BingAI 本体
-
-> #### Cloudflare Worker 部署
->
-> [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Harry-zklcdc/go-proxy-bingai)
-
-> #### Vercel 部署
->
-> [![Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHarry-zklcdc%2Fgo-proxy-bingai&env=BYPASS_SERVER&project-name=go-proxy-bingai&repository-name=go-proxy-bingai)
-
-> #### Zeabur 部署
->
-> [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/ZBA4SF)
-
-> #### Glitch 部署
->
-> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Harry-zklcdc/go-proxy-bingai-glitch)
-
-> #### Replit 部署
->
-> [![Run on Repl.it](https://img.shields.io/badge/Run_on_Repl.it-grey?logo=replit&size=large)](https://repl.it/github/Harry-zklcdc/go-proxy-bingai)
-
-### 人机验证服务器
-
-> #### CodeSandbox 部署
->
-> [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/Harry-zklcdc/go-bingai-pass/tree/main?import=true)
 
 ## 🚧 特色简介
 
